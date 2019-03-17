@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT bain_1422.wsgi:application
